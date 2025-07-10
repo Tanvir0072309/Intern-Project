@@ -1,0 +1,1367 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+    <title>How AI in the Hospitality Industry Is Changing the Game? - Revitup.Direct Blog</title>
+    <meta content="The hospitality industry, a beacon of personalized service and human touch, stands on the cusp of a transformative era with Artificial Intelligence (AI) integration. This technological leap is altering the landscape of guest experiences and reshaping hotel employment and training dynamics." name="description" />
+<meta content="RevitUp.direct,revitup,AI" name="tags" />
+
+    <meta content="summary" name="twitter:card">
+<meta content="How AI in the Hospitality Industry Is Changing the Game?" property="og:title" />
+<meta content="article" property="og:type" />
+<meta content="https://www.revitup.direct/en/news/articles/how-ai-in-the-hospitality-industry-is-changing-the-game" property="og:url" />
+<meta content="https://www.revitup.direct/media/rbmfcqmg/revitup-ai-in-hospitality-main.png?anchor=center&amp;mode=crop&amp;width=1024&amp;height=512&amp;upscale=false" property="og:image" />
+<meta content="The hospitality industry, a beacon of personalized service and human touch, stands on the cusp of a transformative era with Artificial Intelligence (AI) integration. This technological leap is altering the landscape of guest experiences and reshaping hotel employment and training dynamics." property="og:description" />
+
+    <link type="application/rsd+xml" rel="edituri" title="RSD" href="https://www.revitup.direct/en/news/rsd/1265" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.revitup.direct/en/news/wlwmanifest/1265" />
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="https://www.revitup.direct/en/news/rss" />
+    <link rel="search" type="application/opensearchdescription+xml" href="https://www.revitup.direct/en/news/opensearch/1265" title="Search news" >
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="MobileOptimized" content="320" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />    
+
+
+
+    <link href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" type="text/css" rel="stylesheet"/><link href="https://fonts.googleapis.com/css?subset=latin,cyrillic-ext,latin-ext,cyrillic&amp;family=Open+Sans+Condensed:300|Open+Sans:400,600,400italic,600italic|Merriweather:400,300,300italic,400italic,700,700italic|Roboto+Slab:400,300" type="text/css" rel="stylesheet"/><link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" type="text/css" rel="stylesheet"/>
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800|Ubuntu:300,400,500,700&display=swap&subset=greek" />
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800|Ubuntu:300,400,500,700&display=swap&subset=greek"  rel="stylesheet">    
+     
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" media="print" onload="this.media='all'" href="/css/cookieconsent-v2.8.6.css">         
+         
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/themes/prism.min.css" integrity="sha512-tN7Ec6zAFaVSG3TpNAKtk4DOHNpSwKHxxrsiw4GHKESGPs5njn/0sMCUMl2svV4wo4BK/rCP7juYz+zx+l6oeQ==" crossorigin="anonymous" />
+
+    <script>
+	    window.dataLayer = window.dataLayer || [];
+    </script>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PRTV324');</script>
+    <!-- End Google Tag Manager -->
+
+</head>
+<body class="post-template">
+
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PRTV324"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+
+<header class="Header fixed-top">
+    <div class="d-flex justify-content-between align-items-center header-container">
+
+        <div class="logomain">
+            <a href="/en">
+<img src="/images/revitUp-logo.svg" alt="RevitUp" class="img-fluid desk-show">
+<img src="/images/revitUp-logo-mob.svg" alt="RevitUp" class="img-fluid mob-show">
+</a>
+        </div>
+
+        <div class="d-flex justify-content-end align-items-center">
+                <div class="languagesDrop dropdown">
+        <button class="btn btn-sm dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+EN            
+        </button>
+        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                    <a class="dropdown-item" href="https://www.revitup.direct/blog">
+                     
+                   
+GR            
+                   </a>
+        </div>
+    </div>
+
+
+
+            
+   
+            
+            <div id="menu-button" class="offcanvas-menu">
+                <a href="#navigation" class="menu-trigger">Menu <span></span></a>
+            </div>     
+         </div> 
+    </div>
+
+    <nav class="nav-container" id="navigation">
+            <ul class="nav">
+
+                    <li><a href="/en/approach">
+                    APPROACH</a></li>
+                    <li>
+                        <a href="/en/services">
+                            PRODUCTS &amp; SERVICES
+                        </a>
+                            <ul class="submenu">
+            <li>
+                <a href="/en/services/digital-presence-management">DIGITAL PRESENCE MANAGEMENT</a>
+  	        </li>
+            <li>
+                <a href="/en/services/online-distribution">ONLINE DISTRIBUTION</a>
+  	        </li>
+            <li>
+                <a href="/en/services/performance-marketing">PERFORMANCE MARKETING</a>
+  	        </li>
+            <li>
+                <a href="/en/services/revenue-management">REVENUE MANAGEMENT</a>
+  	        </li>
+    </ul>
+
+                     
+                    </li>
+                    <li><a href="/en/clients">
+                    CLIENTS</a></li>
+                    <li><a href="/en/partners">
+                    PARTNERS</a></li>
+                    <li><a href="/en/hotellab">
+                    REVITUP.DIRECT HOTEL LAB</a></li>
+                    <li><a href="/en/career">
+                    CAREER</a></li>
+<li><a href="/en/news">BLOG</a></li>                    <li><a href="/en/contact-us">
+                    CONTACT</a></li>
+            
+        </ul>
+
+
+
+        
+        <div class="contact-details mt-4">
+                        <h3>Contact Info</h3>
+<p style="font-weight:bold;">Greece</p>
+Address: <a href="https://goo.gl/maps/5qHL1ytpzdWBHDek9" target="_blank"> Athanasiou Kampeli 4, 71304, Heraklion Crete Greece</a> <br/>
+Tel.: <a href="tel:+302810801375"> +30 2810801375</a><br/>
+Mob.: <a href="tel:+306946492914"> +30 6946492914</a><br/>
+Email: <a href="malto:hello@revitup.direct"> hello@revitup.direct</a>
+<br/><br/>
+<p style="font-weight:bold;">Cyprus</p>
+Address: Lefkonos 22, 2nd floor, Strovolos, 2064, Nicosia Cyprus<br/>
+Tel.: <a href="tel:+35799157695"> +35799157695</a><br/>
+Email: <a href="malto:dimitris@revitup.direct">dimitris@revitup.direct </a>
+
+<br/><br/>
+ΓΕΜΗ 160129807001
+        </div>
+        <div class="mt-3">
+                        <h3>Social Media</h3>
+                        <div class="social d-flex mt-3">
+                            <a href="https://www.linkedin.com/company/revitup-direct" target="_blank"> <img src="/media/q5of5wtq/linkedin.png" alt="RevitUp Linkedin"></a>
+<a href="https://www.facebook.com/revitup.direct" target="_blank"> <img src="/media/nump1y1k/facebook.png" alt="RevitUp Facebook"></a>
+<a href="https://www.instagram.com/revitup.direct/" target="_blank"> <img src="/media/s5ggw0q4/instagram.png" alt="RevitUp Instagram"></a>
+<a href="https://www.tiktok.com/@revitup.direct" target="_blank"> <img src="/media/raujvbmx/tik-tok.png" alt="RevitUp Tik Tok"></a>
+<a href="https://www.youtube.com/channel/UCMdhfJ-8-bbrgXMkbGT5RrA" target="_blank"> <img src="/media/njib0vpn/youtube-logotype.png" alt="RevitUp Youtube"></a>
+<a href="https://goo.gl/maps/5qHL1ytpzdWBHDek9" target="_blank"> <img src="/media/x3adroim/my-bussiness.png" alt="RevitUp Google Maps"></a>
+                        </div>
+                    </div>
+    </nav>
+    <div class="overlay"></div>
+    
+</header>
+
+
+    <div class="topMedia-static height-sm">
+        <div class="transparency height-sm">
+        </div>
+    </div>
+
+
+
+
+
+    
+
+
+
+
+
+
+
+<section class="bg-White textpage-text pb-5"> 
+<div class="max-width">
+    <div class="row h-space">    
+    <div class="col-lg-8">  
+
+    <article class="post">
+            <h1 class="post-title  mt-0">How AI in the Hospitality Industry Is Changing the Game?</h1>
+       
+            <div class="post-meta">
+                <time datetime="2024-07-05">
+                    Friday, July 05, 2024
+                </time>
+            </div>
+
+        <section class="post-content">
+                <img class="postImage" alt="How AI in the Hospitality Industry Is Changing the Game?" src="/media/rbmfcqmg/revitup-ai-in-hospitality-main.png?anchor=center&amp;mode=crop&amp;width=1024&amp;height=512&amp;upscale=false" />
+        </section>
+        
+        	<section class="post-content">
+		<div class="mb-5 p-0 py-sm-3">
+			<p><em><strong>The hospitality industry, a beacon of personalized service and human touch, stands on the cusp of a transformative era with Artificial Intelligence (AI) integration. This technological leap is altering the landscape of guest experiences and reshaping hotel employment and training dynamics. In this article, we delve into the nuanced impact of AI on these facets, understanding that while AI brings efficiency and innovation, it also presents challenges and opportunities for the workforce.</strong></em></p>
+<p> </p>
+<p style="text-align: center;"><strong><span style="text-decoration: underline;"><em>What is Artificial Intelligence (AI)?</em></span></strong></p>
+<p style="text-align: left;">Artificial Intelligence (AI) is a field within computer science focused on enabling machines and computers to replicate human intelligence. In AI, machines are designed to emulate human thought processes and perform tasks traditionally requiring human intervention, utilizing human-like problem-solving and decision-making capabilities.</p>
+<p style="text-align: left;">AI encompasses a diverse array of rapidly developing technologies, including deep learning, machine learning, and expert systems. For instance, AI-powered systems like self-driving cars and space exploration robots learn from their experiences. Current research is exploring the application of more advanced AI technologies, such as Generative Adversarial Networks (GANs) and Edge AI, across various sectors.</p>
+<p style="text-align: left;"><span style="text-decoration: underline;"><strong>Different Forms of Artificial Intelligence</strong></span></p>
+<p><strong>Robotics (Robotics):</strong></p>
+<ul>
+<li>Applied to robots to perform autonomous or semi-autonomous tasks.</li>
+<li>Applications: manufacturing, healthcare.</li>
+</ul>
+<p><strong>Machine Learning (ML):</strong></p>
+<ul>
+<li>Learns from data to make predictions or decisions.</li>
+<li>Applications: recommender systems, fraud detection.</li>
+</ul>
+<p><strong>Natural Language Processing (NLP):</strong></p>
+<ul>
+<li>Understands and generates human language.</li>
+<li>Applications: chatbots, translation, sentiment analysis</li>
+</ul>
+<p style="text-align: center;"><strong>Explanation of AI Technology Relevance in the Hospitality Industry</strong></p>
+<p style="text-align: left;">In the tourism industry, AI's influence has grown significantly, revolutionizing aspects from travel planning to enhancing customer experiences at destinations. By mimicking human intelligence, AI offers innovative solutions that boost operational efficiency and enrich travelers' experiences, underscoring the importance of embracing these technologies within the tourism sector</p>
+<p style="text-align: center;"><em><strong>Artificial Intelligence (AI) is revolutionizing the hospitality industry, and the world, as we know it. In the United States alone, AI is expected to contribute to a 21% increase in GDP by 2030, highlighting the economic impacts of this new technology</strong></em></p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"><span style="text-decoration: underline;"><em><strong>There are always two sides to a coin</strong></em></span></p>
+<p><img src="/media/h42mcaqf/revitup-ai-in-hospitality.png" alt="A robot interacting with a human"></p>
+<p style="text-align: left;"><em><strong>Artificial intelligence (AI) is transforming the hospitality industry, affecting various areas such as customer service, operational processes and data analytics. Below are the positives and negatives of using AI in hospitality.</strong></em></p>
+<p style="text-align: center;"><span style="text-decoration: underline;"><strong>Positive Impacts of AI in Hospitality</strong></span></p>
+<ol>
+<li><strong>Improved Customer Service:</strong></li>
+<ul style="list-style-type: disc;">
+<li><strong>Chatbots:</strong> Provide instant 24/7 service, handling inquiries and bookings efficiently.</li>
+<li><strong>Personalized Experiences:</strong> AI analyzes customer preferences to offer tailored recommendations and services.</li>
+</ul>
+<li><strong>Process Automation:</strong></li>
+<ul style="list-style-type: disc;">
+<li><strong>Faster Check-In/Out:</strong> Digital keys and automated systems speed up these processes.</li>
+<li><strong>Facility Management:</strong> Predictive maintenance using IoT and AI reduces downtime.</li>
+</ul>
+<li><strong>Increased Revenue:</strong></li>
+<ul style="list-style-type: disc;">
+<li><strong>Revenue Management:</strong> AI optimizes room pricing by analyzing market data.</li>
+</ul>
+</ol>
+<p>Cross-Selling and Promotions: Custom suggestions boost additional service sales.</p>
+<p style="text-align: center;"><span style="text-decoration: underline;"><strong>Negative Impacts of AI in Hospitality</strong></span></p>
+<ol>
+<li><strong>Loss of Human Touch:</strong>
+<ul style="list-style-type: disc;">
+<li>Over-automation can reduce personal interactions, affecting the hospitality feel.</li>
+</ul>
+</li>
+<li><strong>Privacy Concerns:</strong>
+<ul style="list-style-type: disc;">
+<li>Data collection and analysis raise privacy and data security issues.</li>
+</ul>
+</li>
+<li><strong>Costs and Investments:</strong>
+<ul style="list-style-type: disc;">
+<li>Implementing advanced AI systems requires significant investments in technology and staff training.</li>
+</ul>
+</li>
+<li><strong>Technology Dependence:</strong><br>
+<ul style="list-style-type: disc;">
+<li>Over-reliance on technology can lead to issues when systems face technical problems.</li>
+</ul>
+</li>
+</ol>
+<p style="text-align: center;"><span style="text-decoration: underline;"><strong>Importance of Addressing these Changes for Both Workers and Management</strong></span></p>
+<p style="text-align: left;">Adapting to AI means embracing continuous learning and skill development for the workforce. For management, it’s about balancing leveraging AI for operational efficiency and nurturing a workforce skilled enough to complement this technology. Addressing these changes is crucial for maintaining a harmonious work environment and ensuring that the human essence of hospitality remains intact in an AI-driven future.</p>
+<p style="text-align: center;"><span style="text-decoration: underline;"><strong>Smart Marketing and Revenue Management</strong></span></p>
+<p>AI can play a vital role in optimizing marketing efforts and revenue management within the hospitality industry. AI algorithms can analyze large volumes of customer data, market trends and competitor insights to develop targeted marketing campaigns and pricing strategies.</p>
+<p>By leveraging AI in hotels, hospitality industry professionals can personalize marketing messages, identify profitable market segments and optimize pricing strategies in real time. Students interested in hospitality can gain insights into AI-driven marketing techniques and revenue management strategies to drive business growth and maximize profitability.</p>
+<p style="text-align: center;"><span style="text-decoration: underline;"><strong>Technology Trends in Hotels</strong></span></p>
+<p style="text-align: left;"><em><strong>The hospitality industry is rapidly evolving with technological advancements transforming how hotels operate and interact with guests. Here are some key technology trends currently shaping the hotel industry:</strong></em></p>
+<ol>
+<li><strong>Contactless Technology:</strong><br>
+<ul style="list-style-type: disc;">
+<li><strong>Mobile Check-In/Out:</strong> Guests can use their smartphones to check in and out, reducing the need for physical interaction at the front desk.</li>
+<li><strong>Digital Room Keys:</strong> Smartphones serve as room keys, enhancing security and convenience.</li>
+<li><strong>Contactless Payments:</strong> Payment transactions are made seamless and secure through digital wallets and contactless cards.</li>
+</ul>
+</li>
+<li><strong>Artificial Intelligence (AI) and Machine Learning:</strong>
+<ul style="list-style-type: disc;">
+<li><strong>Chatbots and Virtual Assistants:</strong> AI-powered chatbots handle guest inquiries, bookings, and provide information 24/7, improving guest satisfaction.</li>
+<li><strong>Personalized Guest Experiences:</strong> AI analyzes guest data to offer personalized recommendations and services, such as room preferences and activity suggestions.</li>
+</ul>
+</li>
+<li><strong>Internet of Things (IoT):</strong>
+<ul style="list-style-type: disc;">
+<li><strong>Smart Rooms:</strong> IoT devices control lighting, temperature, and entertainment systems, allowing guests to customize their room environment via mobile apps or voice commands.</li>
+<li><strong>Predictive Maintenance:</strong> IoT sensors monitor equipment performance, predicting maintenance needs to prevent breakdowns and reduce operational costs.</li>
+</ul>
+</li>
+<li><strong>Enhanced Connectivity:</strong><br>
+<ul style="list-style-type: disc;">
+<li><strong>High-Speed Wi-Fi:</strong> Providing reliable and fast internet access is crucial for business travelers and digital nomads.</li>
+<li><strong>5G Technology:</strong> The rollout of 5G will further enhance connectivity, enabling better service for guests and supporting advanced tech implementations like AR/VR.</li>
+</ul>
+</li>
+<li><strong>Augmented Reality (AR) and Virtual Reality (VR):</strong>
+<ul style="list-style-type: disc;">
+<li><strong>Virtual Tours:</strong> Potential guests can explore hotel facilities and rooms through VR before booking.</li>
+<li><strong>AR-Enhanced Experiences:</strong> Guests can use AR apps to get information about hotel amenities, local attractions, and events.</li>
+</ul>
+</li>
+<li><strong>Robotics and Automation:</strong>
+<ul style="list-style-type: disc;">
+<li><strong>Service Robots:</strong> Robots assist with luggage handling, room service delivery, and housekeeping tasks, improving efficiency and guest experience.</li>
+<li><strong>Automated Processes:</strong> Backend operations, such as inventory management and billing, are streamlined through automation.</li>
+</ul>
+</li>
+<li><strong>Sustainability and Green Technology:</strong>
+<ul style="list-style-type: disc;">
+<li><strong>Energy Management Systems:</strong> Smart systems optimize energy use for heating, cooling, and lighting, reducing the hotel’s carbon footprint.</li>
+<li><strong>Water Conservation Technologies:</strong> Advanced systems monitor and reduce water usage, promoting sustainable practices.</li>
+</ul>
+</li>
+<li><strong>Big Data and Analytics:</strong><br>
+<ul style="list-style-type: disc;">
+<li><strong>Revenue Management:</strong> Data analytics tools help hotels set optimal pricing strategies based on demand forecasts and market trends.</li>
+<li><strong>Guest Insights:</strong> Analyzing guest data helps hotels understand preferences and behavior, leading to better marketing strategies and service enhancements.</li>
+</ul>
+</li>
+<li><strong>Blockchain Technology:</strong>
+<ul style="list-style-type: disc;">
+<li><strong>Secure Transactions:</strong> Blockchain ensures secure and transparent transactions, enhancing trust in payment processes.</li>
+<li><strong>Loyalty Programs:</strong> Blockchain-based loyalty programs offer secure and easily redeemable rewards for guests.</li>
+</ul>
+</li>
+<li><strong>Enhanced Cybersecurity:</strong>
+<ul style="list-style-type: disc;">
+<li><strong>Data Protection:</strong> With increasing cyber threats, robust cybersecurity measures protect guest information and hotel operations.</li>
+<li><strong>Compliance:</strong> Hotels implement technologies to comply with data protection regulations like GDPR.</li>
+</ul>
+</li>
+</ol>
+<p>Embracing these technology trends is essential for hotels to stay competitive and meet the evolving expectations of guests. By leveraging advancements in AI, IoT, connectivity, and sustainability, hotels can enhance operational efficiency, personalize guest experiences, and promote environmental responsibility. Staying ahead of technological developments will help hotels attract and retain guests, ultimately driving business success in the digital age.</p>
+<p> </p>
+<p><span style="text-decoration: underline;"><em><strong>Conclusion</strong></em></span></p>
+<p>The hospitality industry, renowned for its personalized service, is undergoing a transformative change with the integration of Artificial Intelligence (AI). AI enhances customer service through chatbots and personalized experiences, automates processes like check-ins, and optimizes revenue management. However, it also brings challenges such as the potential loss of human touch, privacy concerns, and high implementation costs. For both workers and management, adapting to AI requires continuous learning and skill development to maintain the human essence of hospitality while leveraging technological advancements for efficiency and growth.</p>
+<p>AI is a game-changer in hospitality, offering numerous benefits while posing challenges. Embracing AI involves balancing technological advancements with human elements to ensure the industry's growth and sustainability.</p>
+<p> </p>
+<p><span style="text-decoration: underline;"><strong>Source:</strong></span> <em><a id="LPlnk166000" rel="noopener noreferrer" href="https://www.phocuswright.com/Travel-Research/Research-Updates/2024/True-automated-AI-in-travel-Is-coming" target="_blank" data-auth="NotApplicable" data-linkindex="0" data-ogsc="">https://www.phocuswright.com</a></em></p>
+
+
+            
+		    
+		</div>
+
+
+
+	</section>
+	
+	 <div class="post-group py-3">
+                <div class="post-meta tags">
+
+
+            <div>
+                Posted in
+
+                    <a href="/en/news/tags/RevitUp-direct">RevitUp.direct</a>
+                        <span>, </span>
+                    <a href="/en/news/tags/revitup">revitup</a>
+                        <span>, </span>
+                    <a href="/en/news/tags/AI">AI</a>
+            </div>
+    </div>
+
+        </div>
+
+
+        
+
+         
+
+    </article>
+    </div>
+        <div class="col-lg-4">
+            
+                      <div class="sidebar">
+
+                    
+
+
+<div class="categories">
+    <h4>Categories</h4>
+    <hr />
+    <ul class="list-unstyled mt-3">
+
+                <li>
+                    <a href="/en/news/categories/Caldera Group">
+                        Caldera Group
+                    </a>
+                </li>
+                <li>
+                    <a href="/en/news/categories/Copywriting">
+                        Copywriting
+                    </a>
+                </li>
+                <li>
+                    <a href="/en/news/categories/Data Driven Marketing">
+                        Data Driven Marketing
+                    </a>
+                </li>
+                <li>
+                    <a href="/en/news/categories/Digital Marketing">
+                        Digital Marketing
+                    </a>
+                </li>
+                <li>
+                    <a href="/en/news/categories/FacebookAds">
+                        FacebookAds
+                    </a>
+                </li>
+                <li>
+                    <a href="/en/news/categories/Hotel digital marketing">
+                        Hotel digital marketing
+                    </a>
+                </li>
+                <li>
+                    <a href="/en/news/categories/Koukoumi Vegan Hotel">
+                        Koukoumi Vegan Hotel
+                    </a>
+                </li>
+                <li>
+                    <a href="/en/news/categories/Online Sales">
+                        Online Sales
+                    </a>
+                </li>
+                <li>
+                    <a href="/en/news/categories/Performance Marketing">
+                        Performance Marketing
+                    </a>
+                </li>
+                <li>
+                    <a href="/en/news/categories/Revenue Management">
+                        Revenue Management
+                    </a>
+                </li>
+                <li>
+                    <a href="/en/news/categories/Social Media">
+                        Social Media
+                    </a>
+                </li>
+                <li>
+                    <a href="/en/news/categories/Yield Management">
+                        Yield Management
+                    </a>
+                </li>
+
+
+    </ul>
+</div>        
+
+
+
+<div class="blog-tags mt-5">
+    <h4>Tags</h4>
+    <hr />
+    <ul class="list-unstyled list-inline mt-3">
+        
+        
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/ABTA">
+                        ABTA,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Ad campaign strategies">
+                        Ad campaign strategies,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Ad extensions">
+                        Ad extensions,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/AI">
+                        AI,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/AI marketing">
+                        AI marketing,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/AI recommendations">
+                        AI recommendations,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Audience targeting">
+                        Audience targeting,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/B2B collaboration">
+                        B2B collaboration,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Booking distribution">
+                        Booking distribution,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Booking engine">
+                        Booking engine,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Booking incentives">
+                        Booking incentives,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Booking intelligence">
+                        Booking intelligence,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Booking strategy">
+                        Booking strategy,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Brand visibility">
+                        Brand visibility,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Budget maximization">
+                        Budget maximization,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Caldera Group">
+                        Caldera Group,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Campaign planning">
+                        Campaign planning,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Capsis collaboration">
+                        Capsis collaboration,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/case study, alianthos garden hotel">
+                        case study, alianthos garden hotel,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Channel impact">
+                        Channel impact,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Channel management">
+                        Channel management,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Channel shift">
+                        Channel shift,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Contactless tech">
+                        Contactless tech,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Conversion focus">
+                        Conversion focus,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Copywriting">
+                        Copywriting,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Cost control">
+                        Cost control,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Cost visibility">
+                        Cost visibility,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Customer journey">
+                        Customer journey,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Data Driven Marketing">
+                        Data Driven Marketing,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Demand capture">
+                        Demand capture,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Demand creation">
+                        Demand creation,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Demand forecasting">
+                        Demand forecasting,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Digital check‑in">
+                        Digital check‑in,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Digital concierge">
+                        Digital concierge,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Digital Hotel Sales Systems">
+                        Digital Hotel Sales Systems,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Digital Marketing">
+                        Digital Marketing,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Digital Marketing Agency">
+                        Digital Marketing Agency,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Digital transformation">
+                        Digital transformation,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Direct booking growth">
+                        Direct booking growth,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Direct Bookings">
+                        Direct Bookings,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Distribution costs">
+                        Distribution costs,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Dynamic pricing">
+                        Dynamic pricing,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Earnings evaluation">
+                        Earnings evaluation,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/EBITDAR calculation">
+                        EBITDAR calculation,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Email Marketing">
+                        Email Marketing,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Event attendance">
+                        Event attendance,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Exhibition presence">
+                        Exhibition presence,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Experience enhancement">
+                        Experience enhancement,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/FacebookAds">
+                        FacebookAds,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Feedback loop">
+                        Feedback loop,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Financial performance">
+                        Financial performance,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Future hospitality">
+                        Future hospitality,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/google">
+                        google,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/google ads">
+                        google ads,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Google Ads optimization">
+                        Google Ads optimization,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/google premier partner">
+                        google premier partner,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Greek Hospitality Awards">
+                        Greek Hospitality Awards,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Growth tactics">
+                        Growth tactics,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Guest acquisition">
+                        Guest acquisition,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Guest delight">
+                        Guest delight,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Guest personalization">
+                        Guest personalization,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Guest satisfaction">
+                        Guest satisfaction,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Guest sourcing">
+                        Guest sourcing,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/H.O.S.T Initiative Meetup">
+                        H.O.S.T Initiative Meetup,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Hidden fees">
+                        Hidden fees,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/HolidayCheck">
+                        HolidayCheck,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Hospitality engagement">
+                        Hospitality engagement,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Hospitality events">
+                        Hospitality events,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Hospitality finance">
+                        Hospitality finance,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Hospitality innovation">
+                        Hospitality innovation,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Hotel digital marketing">
+                        Hotel digital marketing,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Hotel Digital Marketing Agency">
+                        Hotel Digital Marketing Agency,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Hotel Distribution">
+                        Hotel Distribution,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Hotel Marketing Performance">
+                        Hotel Marketing Performance,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Hotel PPC success">
+                        Hotel PPC success,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Hotel Pricing">
+                        Hotel Pricing,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Hotel profitability metric">
+                        Hotel profitability metric,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/hotel revenue management">
+                        hotel revenue management,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Hotel showcase">
+                        Hotel showcase,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Hotel software synergy">
+                        Hotel software synergy,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Hotel Strategies">
+                        Hotel Strategies,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Hotel visibility">
+                        Hotel visibility,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Hotel, Resort, Villa &amp; Yacht development, Management &amp; Consulting">
+                        Hotel, Resort, Villa &amp; Yacht development, Management &amp; Consulting,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Hotel-tech partnership">
+                        Hotel-tech partnership,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Incentive strategy">
+                        Incentive strategy,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Industry networking">
+                        Industry networking,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Inventory control">
+                        Inventory control,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Koukoumi Vegan Hotel">
+                        Koukoumi Vegan Hotel,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Loyalty building">
+                        Loyalty building,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Machine learning">
+                        Machine learning,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Margin assessment">
+                        Margin assessment,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Market analysis">
+                        Market analysis,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Market exposure">
+                        Market exposure,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Market segmentation">
+                        Market segmentation,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Marketing ROI">
+                        Marketing ROI,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/My Business">
+                        My Business,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/New guest expectations">
+                        New guest expectations,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/occupancy">
+                        occupancy,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Occupancy strategies">
+                        Occupancy strategies,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Online Bookings for Hotels &amp; Resorts">
+                        Online Bookings for Hotels &amp; Resorts,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Online Sales">
+                        Online Sales,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/On‑site amenities">
+                        On‑site amenities,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Operational earnings">
+                        Operational earnings,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/OTA commission">
+                        OTA commission,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/OTA reduction">
+                        OTA reduction,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/OTA vs direct">
+                        OTA vs direct,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Partner engagement">
+                        Partner engagement,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Performance Marketing">
+                        Performance Marketing,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Personalized stays">
+                        Personalized stays,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Platform optimization">
+                        Platform optimization,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/PPC targeting">
+                        PPC targeting,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Price parity">
+                        Price parity,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Pricing analysis">
+                        Pricing analysis,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Pricing automation">
+                        Pricing automation,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Pricing transparency">
+                        Pricing transparency,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Profit analysis">
+                        Profit analysis,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Profit erosion">
+                        Profit erosion,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Profit maximization">
+                        Profit maximization,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Promotion design">
+                        Promotion design,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Quality improvement">
+                        Quality improvement,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Rate parity">
+                        Rate parity,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Rate strategy">
+                        Rate strategy,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Reservation channels">
+                        Reservation channels,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Revenue">
+                        Revenue,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Revenue efficiency">
+                        Revenue efficiency,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Revenue leakage">
+                        Revenue leakage,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/revenue management">
+                        revenue management,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Revenue management integration">
+                        Revenue management integration,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Revenue Masterclass">
+                        Revenue Masterclass,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Revenue optimization">
+                        Revenue optimization,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Revenue per room">
+                        Revenue per room,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Revenue performance boost">
+                        Revenue performance boost,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Revenue retention">
+                        Revenue retention,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Revenue stimulation">
+                        Revenue stimulation,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/revitup">
+                        revitup,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/RevitUp.direct">
+                        RevitUp.direct,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Sales funnel">
+                        Sales funnel,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Search optimization">
+                        Search optimization,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Seasonal pricing">
+                        Seasonal pricing,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Service excellence">
+                        Service excellence,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Smart discovery">
+                        Smart discovery,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Smart rooms">
+                        Smart rooms,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Social Media">
+                        Social Media,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Strategic alliance">
+                        Strategic alliance,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Sustainability trends">
+                        Sustainability trends,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/System synchronization">
+                        System synchronization,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Tech-driven hospitality">
+                        Tech-driven hospitality,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Tech-driven stays">
+                        Tech-driven stays,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Tech-enabled travel">
+                        Tech-enabled travel,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Tourism Awards">
+                        Tourism Awards,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Tourism Awards 2024">
+                        Tourism Awards 2024,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Trade show">
+                        Trade show,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Travel Trends">
+                        Travel Trends,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Travelling">
+                        Travelling,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/UK Holidays">
+                        UK Holidays,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Voice searches">
+                        Voice searches,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Wellness integration">
+                        Wellness integration,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/Yield Management">
+                        Yield Management,
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="/en/news/tags/yielding">
+                        yielding,
+                    </a>
+                </li>
+
+
+    </ul>
+</div>
+
+                </div>
+                
+        </div>
+</div>
+</section>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/components/prism-core.min.js" integrity="sha512-xR+IAyN+t9EBIOOJw5m83FTVMDsPd63IhJ3ElP4gmfUFnQlX9+eWGLp3P4t3gIjpo2Z1JzqtW/5cjgn+oru3yQ==" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/plugins/autoloader/prism-autoloader.min.js" integrity="sha512-zc7WDnCM3aom2EziyDIRAtQg1mVXLdILE09Bo+aE1xk0AM2c2cVLfSW9NrxE5tKTX44WBY0Z2HClZ05ur9vB6A==" crossorigin="anonymous"></script>
+
+
+
+    
+
+
+    <section class="footer" id="contact">
+        <div class="max-width">
+            <div class="row ">
+                <div class="col-12 col-md-6 contact">
+                    <div class="pr-md-2 pr-lg-5 mr-lg-5">
+                    </div>
+                </div>
+                
+                <div class="col-12 col-md-6 contactFormCol contactFormCol-second">
+                    <div class="pl-md-2 pl-lg-5 ml-lg-5">
+                        <div class="contact-details">
+                            <h3>Contact Info</h3>
+<p style="font-weight:bold;">Greece</p>
+Address: <a href="https://goo.gl/maps/5qHL1ytpzdWBHDek9" target="_blank"> Athanasiou Kampeli 4, 71304, Heraklion Crete Greece</a> <br/>
+Tel.: <a href="tel:+302810801375"> +30 2810801375</a><br/>
+Mob.: <a href="tel:+306946492914"> +30 6946492914</a><br/>
+Email: <a href="malto:hello@revitup.direct"> hello@revitup.direct</a>
+<br/><br/>
+<p style="font-weight:bold;">Cyprus</p>
+Address: Lefkonos 22, 2nd floor, Strovolos, 2064, Nicosia Cyprus<br/>
+Tel.: <a href="tel:+35799157695"> +35799157695</a><br/>
+Email: <a href="malto:dimitris@revitup.direct">dimitris@revitup.direct </a>
+
+<br/><br/>
+ΓΕΜΗ 160129807001
+                        </div>
+                        <div class="mt-3">
+                        <h3>Social Media</h3>
+                        <div class="social d-flex mt-3">
+                            <a href="https://www.linkedin.com/company/revitup-direct" target="_blank"> <img src="/media/q5of5wtq/linkedin.png" alt="RevitUp Linkedin"></a>
+<a href="https://www.facebook.com/revitup.direct" target="_blank"> <img src="/media/nump1y1k/facebook.png" alt="RevitUp Facebook"></a>
+<a href="https://www.instagram.com/revitup.direct/" target="_blank"> <img src="/media/s5ggw0q4/instagram.png" alt="RevitUp Instagram"></a>
+<a href="https://www.tiktok.com/@revitup.direct" target="_blank"> <img src="/media/raujvbmx/tik-tok.png" alt="RevitUp Tik Tok"></a>
+<a href="https://www.youtube.com/channel/UCMdhfJ-8-bbrgXMkbGT5RrA" target="_blank"> <img src="/media/njib0vpn/youtube-logotype.png" alt="RevitUp Youtube"></a>
+<a href="https://goo.gl/maps/5qHL1ytpzdWBHDek9" target="_blank"> <img src="/media/x3adroim/my-bussiness.png" alt="RevitUp Google Maps"></a>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </section> 
+    
+
+ <div class="">
+    <div class="Copyright" style="color: #3f4039;font-size:14px;text-align:center; padding: 5px;">
+       <a href="#" data-cc="c-settings">Cookie Settings</a> | 
+                <a href="/en/privacy-policy">
+                    PRIVACY POLICY</a>
+|                <a href="/en/terms-of-use">
+                    TERMS OF USE</a>
+|
+       
+       Â© 2019 Revitup. All rights reserved | Designed and developed by <a href="http://www.eyewide.gr/" title="Eyewide - Hotel Internet Marketing" target="_blank">Eyewide - Hotel Internet Marketing</a>
+    </div>
+</div>    
+
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" type="text/javascript"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" type="text/javascript"></script><script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" type="text/javascript"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" type="text/javascript"></script><script src="/DependencyHandler.axd?s=L3NjcmlwdHMvc2NyaXB0cy5qczsvQXBwX1BsdWdpbnMvQXJ0aWN1bGF0ZS9UaGVtZXMvUkVWSVRVUC9Bc3NldHMvanMvZmVlZHMuanM7&amp;t=Javascript&amp;cdv=1435973860" type="text/javascript"></script>
+    
+  
+        <script defer src="/scripts/cookieconsent-v2.8.6.js"></script>
+    <script defer src="/scripts/cookieconsent-init.js"></script>
+    
+
+   
+        <script src="/Scripts/jquery.validate.min.js" type="text/javascript"></script>
+        <script src="/Scripts/jquery.validate.unobtrusive.min.js" type="text/javascript"></script>
+        <script src="/Scripts/jquery.unobtrusive-ajax.min.js" type="text/javascript"></script>
+    
+    
+    
+
+</body>
+</html>
